@@ -90,3 +90,8 @@
 .container-fluid .jumbotron {
     border-radius: 0;
 }
+
+.tooltip-inner,
+.popover {
+    border-radius: 0;
+}
