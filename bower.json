@@ -5,7 +5,7 @@
     "bootstrap",
     "sharp"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/KeitIG/bootstrap-sharper",
   "description": "Basic Bootstrap theme with minor changes to make it look sharper and more \"pro\"",
   "main": "bootstrap-sharper.css",
