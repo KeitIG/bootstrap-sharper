@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-sharper",
+  "keywords": [
+    "style",
+    "bootstrap",
+    "sharp"
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/KeitIG/bootstrap-sharper",
+  "description": "Basic Bootstrap theme with minor changes to make it look sharper and more \"pro\"",
+  "main": "bootstrap-sharper.css",
+  "authors": [
+    "Pierre de la Martinière"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
